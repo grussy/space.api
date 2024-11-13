@@ -2,11 +2,11 @@
     "api": "0.13",
     "space": "BSZ-Waldkirch MakerSpace",
     "logo": "https://raw.githubusercontent.com/AmmanVMS/space.api/main/logo-square-white-500x500.png",
-    "url": "https://cwmaman.org.uk/makerspace/",
+    "url": "https://bsz-waldkirch.de/makerspace/",
     "location": {
         "address": "Berufliches Schulzentrum, Merklinstr. 21, 79183, Waldkirch",
-        "lon": -3.92288,
-        "lat": 51.80626
+        "lon": 7.95188,
+        "lat": 48.09330
     },
     "contact": {
         "phone": "",
