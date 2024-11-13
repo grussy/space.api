@@ -1,17 +1,17 @@
 {
     "api": "0.13",
-    "space": "Amman Valley MakerSpace",
+    "space": "BSZ-Waldkirch MakerSpace",
     "logo": "https://raw.githubusercontent.com/AmmanVMS/space.api/main/logo-square-white-500x500.png",
     "url": "https://cwmaman.org.uk/makerspace/",
     "location": {
-        "address": "Youth Resource Center/MakerSpace, Station Road, Glanamman, SA18 1LQ, Wales, United Kingdom",
+        "address": "Berufliches Schulzentrum, Merklinstr. 21, 79183, Waldkirch",
         "lon": -3.92288,
         "lat": 51.80626
     },
     "contact": {
-        "phone": "01269 823299",
-        "email": "robvenus@cwmamantc.org",
-        "issue_mail": "niccokunzmann@rambler.ru"
+        "phone": "",
+        "email": "makerspace@bsz-waldkirch.de",
+        "issue_mail": "it@bsz-waldkirch.de"
     },
     "issue_report_channels": [
         "issue_mail"
@@ -24,7 +24,7 @@
         }
     },
     "projects": [
-        "http://github.com/AmmanVMS"
+        "https://github.com/grussy/space.api"
     ],
     "cache": {
         "schedule": "m.05"
