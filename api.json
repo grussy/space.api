@@ -6,7 +6,7 @@
     "location": {
         "address": "Berufliches Schulzentrum, Merklinstr. 21, 79183, Waldkirch",
         "lon": 7.95188,
-        "lat": 48.09330
+        "lat": 48.0933
     },
     "contact": {
         "phone": "",
@@ -17,7 +17,7 @@
         "issue_mail"
     ],
     "state": {
-        "open": false,
+        "open": true,
         "icon": {
             "open": "https://raw.githubusercontent.com/AmmanVMS/space.api/main/workshop-open.jpg",
             "closed": "https://raw.githubusercontent.com/AmmanVMS/space.api/main/workshop-closed.jpg"
